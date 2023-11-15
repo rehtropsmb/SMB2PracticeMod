@@ -1,6 +1,19 @@
 # Full Feature List
 Here lies the full feature list for the SMB2 Practice Mod. Click on any of the links to see more information on how to use a specific feature.
 
+## Full List
+* Go To Story Mode Hotkey
+* Challenge Mode Segments
+* Savestates
+* Freecam
+* Hide UI / Stage Elements
+* Quick Rumble Toggles
+* Audio Toggles
+* Unlock Game Progress
+* Debug Toggle
+* Input Display
+* 
+
 ## General Tools
 * Go To Story Mode Hotkey
 * Savestates
