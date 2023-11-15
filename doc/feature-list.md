@@ -1,47 +1,43 @@
 # Full Feature List
 Here lies the full feature list for the SMB2 Practice Mod. Click on any of the links to see more information on how to use a specific feature.
 
-## Full List
-* Go To Story Mode Hotkey
-* Challenge Mode Segments
-* Savestates
+## General Tools
+* Go To Story Mode Button
+* [Savestates](features/tools/savestates.md)
 * Freecam
-* Hide UI / Stage Elements
+* Hide Stage Elements
 * Quick Rumble Toggles
 * Audio Toggles
-* Unlock Game Progress
-* Debug Toggle
-* Input Display
-* 
-
-## General Tools
-* Go To Story Mode Hotkey
-* Savestates
-* Hide Stage Elements
 * Unlock Game Progress
 * Debug Toggle
 
 ## UI Displays
 * Input Display
 * Speedrun Timers
-* IL Battle / Session Tracker
+* IL-Battle Tracker / IL Session Tracker
+* IL Validation Mark
 * 9999 Banana Counter
 
 ## Customization
 * Custom Ball Color
 * Custom Monkey Clothing Color
+* Monkey Selection Tool
 
-## Speedrun Practice
-* Individual World (IW) Segments
+## Speedrun Tools
 * Challenge Mode (CM) Segments
+* Individual World (IW) Segments
 
 ## Fun Variants
-* Edit Game Physics
-* Assist Tools
-* Jump Mode
+* Custom Camera
+* Physics Editor
+* Custom Timer Type
+* Disable Fallout Planes and Fallout Volumes
+* Jump-Mod
 * Marathon Mode
 * Reverse Mode
 * Golden/Dark Banana Modes
+* D-pad Controls
 
 ## Mod Settings
 * Change Menu Bind
+* Restore Mod Defaults
