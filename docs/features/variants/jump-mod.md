@@ -1,5 +1,5 @@
 # Jump Mod
-Jump Mod allows you to press a button to jump! Enable this variant and press the A button to jump in the air. Use additional options to enable a double jump or even have unlimited jumps!
+Jump Mod allows you to press a button to jump! Enable this variant and press the A button to jump into the air. Use additional options to enable a double jump or even have unlimited jumps!
 
 ## How to Use
 #### Menu Location: Variants -> Jump Mod
