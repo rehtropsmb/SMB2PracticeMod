@@ -1,6 +1,8 @@
 # Full Feature List
 Here lies the full feature list for the SMB2 Practice Mod. Click on any of the links to see more information on how to use a specific feature.
 
+// TODO: Change CM SEG timer text from SEG to CM
+
 ## General Tools
 * Go To Story Mode Button
 * [Savestates](features/tools/savestates.md)
@@ -12,9 +14,9 @@ Here lies the full feature list for the SMB2 Practice Mod. Click on any of the l
 * Debug Toggle
 
 ## UI Displays
-* Input Display
+* [Input Display](features/displays/input-display.md)
 * [Speedrun Timers](features/displays/timers.md)
-* IL-Battle Tracker / IL Session Tracker
+* [IL Battle & IL Session Tracker](features/displays/il-battle.md)
 * IL Validation Mark
 * 9999 Banana Counter
 

@@ -23,6 +23,20 @@
   * Added options to disable fallout volumes
 * Timers
   * Framesave Calculation, Subtick Timer, and Unrounded Timers
+* Customization
+  * Added RGB selector, rainbow mode, and random mode to ball color options
+  * Added random mode to clothing color options
+  * Added option to change monkey selection
+* IL Battle / IL Session Tracker
+  * Endless timer now shows hour count
+  * Ready button is now a controller bind that can be changed
+  * Time/Score displays can now be disabled individually
+  * There's now a Minimal version of the Score Breakdown display
+  * Added a tie counter
+  * Added an attempt counter
+  * Buzzer beaters now make the relevant time/score text rainbow
+  * Buzzer beater score attempts now have post-goal support
+  * Added a toggle for the "Epic Buzzer Beater B)" text
 * Menus
   * Options that aren't currently relevant are hidden
   * Reorganized almost every menu
