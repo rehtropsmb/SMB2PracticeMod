@@ -33,7 +33,7 @@ Here lies the full feature list for the SMB2 Practice Mod. Click on any of the l
 * [Custom Timer Type](features/variants/timer.md)
 * Disable Fallout Planes and Fallout Volumes
 * [Jump-Mod](features/variants/jump-mod.md)
-* Marathon Mode
+* [Marathon Mode](features/variants/marathon.md)
 * [Reverse Mode](features/variants/stage-edits.md)
 * [Golden/Dark Banana Modes](features/variants/stage-edits.md)
 * [D-pad Controls](features/variants/dpad-controls.md)
