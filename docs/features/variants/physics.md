@@ -16,7 +16,3 @@ Select a preset, and the game will use the selected physics. The current list of
 ## Configuration
 ### Display Physics Text
 If this is enabled, text displaying "Custom Physics" will appear in the bottom right of the screen whenever non-default physics are used. This is enabled by default.
-
-## Version History
-* **1.1.0:**
-  * Added

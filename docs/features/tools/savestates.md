@@ -7,8 +7,6 @@ When enabled, use the bindings below to use savestates. First, select a slot wit
 
 To frame advance, hold down either L or R. Next, create a savestate with X but continue to hold down either L or R. You will now be in frame advance mode and the game will be frozen as long as you continue to hold L or R. By pressing X, you will now advance one frame at a time.
 
-There are 8 available savestate slots. Although it's extremely unlikely, the game may not have enough memory to create a savestate when several of the slots are filled with states on stages with many stage objects or animations. (An example of a stage that can cause this issue is E15 Kirigami from the custom pack Level Jams Season 6. This stage has more than 200 bananas).
-
 |Key|Binding|
 |-|-|
 |X|Create Savestate in current slot|
@@ -16,6 +14,10 @@ There are 8 available savestate slots. Although it's extremely unlikely, the gam
 |C-Stick|Change current slot|
 |L+X|Frame advance|
 |R+X|Frame advance|
+
+There are 8 available savestate slots. Although it's extremely unlikely, the game may not have enough memory to create a savestate when several of the slots are filled with states on stages with many stage objects or animations. (An example of a stage that can cause this issue is E15 Kirigami from the custom pack Level Jams Season 6. This stage has more than 200 bananas).
+
+If you have created savestates in several slots, you are able to preview the position of each slot. Hold down L or R, move the C-Stick to a slot, and the game will preview that slot. You can move the C-Stick around the wheel while to view each slot quickly.
 
 ## Configuration
 ### Clear Savestate
