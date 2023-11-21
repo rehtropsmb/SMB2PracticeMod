@@ -8,6 +8,7 @@
   * Added two new modes: Freeze at 0.00 and Count Up from 0.00
 * Physics Editor
   * Added 6 new physics presets and a customizable physics editor
+  * Moon Gravity was renamed to Light Ball (to match Heavy Ball)
 * Jump-Mod
   * Complete revamp in a new "Standard" jump profile
     * Jumping on a sloped surface or a wall will slightly push you away from that surface, allowing for massive speed boosts while traveling downhill, but increased difficulty when jumping uphill
@@ -17,4 +18,11 @@
   * Moved old Jump-Mod to "Classic" jump profile (so you can still play with the old version if you like the cheese)
 * Camera
   * Added options to use SMB2 or SMB1 camera in any pack. These options will "force" the camera and disable camera-toggles in any pack that has them
-
+* Disable Fallouts
+  * Added options for a disabled fallout plane, and for a bouncy fallout plane
+  * Added options to disable fallout volumes
+* Timers
+  * Framesave Calculation, Subtick Timer, and Unrounded Timers
+* Menus
+  * Options that aren't currently relevant are hidden
+  * Reorganized almost every menu

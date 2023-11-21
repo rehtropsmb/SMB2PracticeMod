@@ -13,25 +13,25 @@ Here lies the full feature list for the SMB2 Practice Mod. Click on any of the l
 
 ## UI Displays
 * Input Display
-* Speedrun Timers
+* [Speedrun Timers](features/displays/timers.md)
 * IL-Battle Tracker / IL Session Tracker
 * IL Validation Mark
 * 9999 Banana Counter
 
 ## Customization
-* Custom Ball Color
-* Custom Monkey Clothing Color
-* Monkey Selection Tool
+* [Custom Ball Color](features/customization.md)
+* [Custom Monkey Clothing Color](features/customization.md)
+* [Monkey Selection](features/customization.md)
 
 ## Speedrun Tools
 * Challenge Mode (CM) Segments
 * Individual World (IW) Segments
 
-## Fun Variants
+## Variants and Alternate Modes
 * [Custom Camera](features/variants/camera.md)
 * [Physics Editor](features/variants/physics.md)
 * [Custom Timer Type](features/variants/timer.md)
-* Disable Fallout Planes and Fallout Volumes
+* [Disable Fallout Planes and Fallout Volumes](features/variants/disable-fallouts.md)
 * [Jump-Mod](features/variants/jump-mod.md)
 * [Marathon Mode](features/variants/marathon.md)
 * [Reverse Mode](features/variants/stage-edits.md)

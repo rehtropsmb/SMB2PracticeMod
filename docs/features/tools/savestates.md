@@ -25,11 +25,3 @@ Create an optional keybind. When this bind is pressed, it will clear the savesta
 
 ### Prevent Overriding
 When enabled, savestates cannot be created in a slot that already contains a savestate. The slot must manually be cleared by using the **Clear Savestate** feature before another savestate can be created in that slot.
-
-## Version History
-* **1.1.0:**
-  * Feature: an optional bind to clear a savestate
-  * Feature: a setting to prevent overwriting a savestate (they must manually be cleared)
-  * Bugfix: Added jamabar support for savestates
-* **1.0.0:**
-  * Added
