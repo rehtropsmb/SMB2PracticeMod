@@ -37,6 +37,7 @@
   * Buzzer beaters now make the relevant time/score text rainbow
   * Buzzer beater score attempts now have post-goal support
   * Added a toggle for the "Epic Buzzer Beater B)" text
+  * Pausing on the goal-tape break frame (or the next frame) will no longer incorrectly invalidate an attempt
 * Menus
   * Options that aren't currently relevant are hidden
   * Reorganized almost every menu
