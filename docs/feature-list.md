@@ -2,12 +2,15 @@
 Here lies the full feature list for the SMB2 Practice Mod. Click on any of the links to see more information on how to use a specific feature.
 
 // TODO: Change CM SEG timer text from SEG to CM
+
 // TODO: Have IL Mark show when run is valid NO MATTER WHAT! 
+
+// TODO: Remove unneeded physics values from validate.cpp
 
 ## General Tools
 * Go To Story Mode Button
 * [Savestates](features/tools/savestates.md)
-* Freecam
+* [Freecam]()
 * Hide Stage Elements
 * Quick Rumble Toggles
 * Audio Toggles
