@@ -2,6 +2,7 @@
 Here lies the full feature list for the SMB2 Practice Mod. Click on any of the links to see more information on how to use a specific feature.
 
 // TODO: Change CM SEG timer text from SEG to CM
+// TODO: Have IL Mark show when run is valid NO MATTER WHAT! 
 
 ## General Tools
 * Go To Story Mode Button
@@ -17,7 +18,7 @@ Here lies the full feature list for the SMB2 Practice Mod. Click on any of the l
 * [Input Display](features/displays/input-display.md)
 * [Speedrun Timers](features/displays/timers.md)
 * [IL Battle & IL Session Tracker](features/displays/il-battle.md)
-* IL Validation Mark
+* [IL Validation Mark](features/displays/il-mark.md)
 * 9999 Banana Counter
 
 ## Customization
@@ -39,7 +40,3 @@ Here lies the full feature list for the SMB2 Practice Mod. Click on any of the l
 * [Reverse Mode](features/variants/stage-edits.md)
 * [Golden/Dark Banana Modes](features/variants/stage-edits.md)
 * [D-pad Controls](features/variants/dpad-controls.md)
-
-## Mod Settings
-* Change Menu Bind
-* Restore Mod Defaults

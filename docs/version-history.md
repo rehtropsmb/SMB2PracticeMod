@@ -9,6 +9,7 @@
 * Physics Editor
   * Added 6 new physics presets and a customizable physics editor
   * Moon Gravity was renamed to Light Ball (to match Heavy Ball)
+  * A toggleable text display will appear on screen when custom physics are being used
 * Jump-Mod
   * Complete revamp in a new "Standard" jump profile
     * Jumping on a sloped surface or a wall will slightly push you away from that surface, allowing for massive speed boosts while traveling downhill, but increased difficulty when jumping uphill
@@ -38,6 +39,10 @@
   * Buzzer beater score attempts now have post-goal support
   * Added a toggle for the "Epic Buzzer Beater B)" text
   * Pausing on the goal-tape break frame (or the next frame) will no longer incorrectly invalidate an attempt
+* IL Validation Mark
+  * Pausing on the goal-tape break frame (or the next frame) will no longer incorrectly invalidate an attempt
+  * Added a button to disable all IL-Invalidating mods
+  * All new game-modifying mods will invalidate the mark
 * Menus
   * Options that aren't currently relevant are hidden
   * Reorganized almost every menu
