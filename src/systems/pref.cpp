@@ -101,6 +101,7 @@ enum class PrefId : u16 {
     MonkeyType = 81,
     JumpProfile = 82,
     CustomPhysicsDisp = 83,
+    StageOrderRandomizer = 84,
 };
 
 // Verbatim list of preference IDs we iterate over when writing savefile back out
@@ -185,6 +186,7 @@ static const PrefId s_pref_ids[] = {
     PrefId::MonkeyType,
     PrefId::JumpProfile,
     PrefId::CustomPhysicsDisp,
+    PrefId::StageOrderRandomizer,
 };
 
 static std::optional<BoolPref> pref_id_to_bool_pref(PrefId id) {
@@ -287,6 +289,8 @@ static std::optional<BoolPref> pref_id_to_bool_pref(PrefId id) {
             return BoolPref::JumpAllowWalljumps;
         case PrefId::CustomPhysicsDisp:
             return BoolPref::CustomPhysicsDisp;
+        case PrefId::StageOrderRandomizer:
+            return BoolPref::StageOrderRandomizer;
         default:
             return {};
     }
@@ -368,6 +372,7 @@ static BoolPref s_default_on_bool_prefs[] = {
     BoolPref::CmTimer,
     BoolPref::InputDispNotchIndicators,
     BoolPref::IlMarkPractice,
+    BoolPref::IlMarkRomhacks,
     BoolPref::UnlockVanilla,
     BoolPref::FreecamFreezeTimer,
     BoolPref::FreecamHideHud,

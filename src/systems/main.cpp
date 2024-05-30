@@ -39,6 +39,7 @@
 #include "mods/tetris.h"
 #include "mods/timer.h"
 #include "mods/unlock.h"
+#include "mods/randomizer.h"
 
 namespace main {
 
@@ -102,6 +103,7 @@ void init() {
     stage_edits::init();
     scratch::init();
     validate::init();
+    randomizer::init();
 
     patch::hook_function(s_PADRead_tramp, mkb::PADRead, [](mkb::PADStatus* statuses) {
         u32 ret = s_PADRead_tramp.dest(statuses);
@@ -141,6 +143,7 @@ void init() {
         camera::tick();
         stage_edits::tick();
         validate::tick();
+        randomizer::tick();
         scratch::tick();
         // Pref runs last to track the prefs from the previous frame
         pref::tick();

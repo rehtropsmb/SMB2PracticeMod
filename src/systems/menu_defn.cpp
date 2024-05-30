@@ -1662,6 +1662,20 @@ static Widget s_jump_widgets[] = {
     },
 };
 
+static Widget s_randomizer_widgets[] = {
+    {
+        .type = WidgetType::Checkbox,
+        .checkbox = {
+            .label = "Story Randomizer",
+            .pref = pref::BoolPref::StageOrderRandomizer,
+        },
+    },
+    {
+        .type = WidgetType::Text,
+        .text = {"  Randomizes story mode stage order"},
+    },
+};
+
 static const char* TIMER_TYPES[] = {"Default", "Frozen", "Freeze at 0", "Count up from 0"};
 static const char* FALLOUT_PLANE_TYPE[] = {"Normal", "Disabled", "Bouncy"};
 
@@ -1742,6 +1756,15 @@ static Widget s_variant_widgets[] = {
                 .label = "Jump-Mod",
                 .widgets = s_jump_widgets,
                 .num_widgets = LEN(s_jump_widgets),
+            },
+    },
+    {
+        .type = WidgetType::Menu,
+        .menu = 
+            {
+                .label = "Randomizer",
+                .widgets = s_randomizer_widgets,
+                .num_widgets = LEN(s_randomizer_widgets),
             },
     },
     {

@@ -56,6 +56,7 @@ enum class BoolPref : u8 {
     JumpChangePhysics,
     JumpAllowWalljumps,
     CustomPhysicsDisp,
+    StageOrderRandomizer,
 };
 
 enum class U8Pref : u8 {
