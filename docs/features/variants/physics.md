@@ -11,7 +11,6 @@ Select a preset, and the game will use the selected physics. The current list of
 * Bouncy Ball
 * Sticky Ball
 * Jump-Mod Physics (To be used with the Jump-Mod Variant)
-* Custom (Completely Customizable Values)
 
 ## Configuration
 ### Display Physics Text
