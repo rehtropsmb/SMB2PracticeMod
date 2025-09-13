@@ -7,7 +7,7 @@
 * Custom Timer Types
   * Added two new modes: Freeze at 0.00 and Count Up from 0.00
 * Physics Editor
-  * Added 6 new physics presets and a customizable physics editor
+  * Added 6 new physics presets
   * Moon Gravity was renamed to Light Ball (to match Heavy Ball)
   * A toggleable text display will appear on screen when custom physics are being used
 * Jump-Mod
